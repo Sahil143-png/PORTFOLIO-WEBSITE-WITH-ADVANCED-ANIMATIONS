@@ -45,3 +45,8 @@ The portfolio website is fully responsive and adapts seamlessly to devices of di
 ✨ Animations & Interactivity
 The use of GSAP adds a modern, interactive feel to the portfolio. Sections such as About, Projects, and Skills animate into view as the user scrolls down the page, creating a dynamic user experience. Additionally, hover effects are applied to project cards to enhance interactivity.
 
+
+#OUTPUT:-
+
+
+![Image](https://github.com/user-attachments/assets/05140a07-7591-4daf-b129-848a0809d81f)
