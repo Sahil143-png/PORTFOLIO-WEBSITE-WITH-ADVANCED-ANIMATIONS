@@ -55,4 +55,4 @@ The use of GSAP adds a modern, interactive feel to the portfolio. Sections such 
 #OUTPUT 2:-
 
 
-![Image](https://github.com/user-attachments/assets/05140a07-7591-4daf-b129-848a0809d81f)
+![Image](https://github.com/user-attachments/assets/07648050-e744-438e-afa5-dc045930cb73)
