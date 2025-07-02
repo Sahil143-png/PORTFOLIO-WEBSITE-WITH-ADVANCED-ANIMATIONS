@@ -10,7 +10,9 @@
 *DURATION*:4 WEEKS
 
 *MENTOR*: NEELA SANTOSH 
+
 Description about Task 1:-
+
 This project is built as part of Task 1 of the CODTECH Web Development Internship. The objective of this task was to develop a responsive and visually appealing personal portfolio website using modern web development technologies. The project showcases essential frontend development skills and includes advanced animations powered by GSAP (GreenSock Animation Platform).
 
 The website is designed for developers and designers to present their profile, technical skills, and completed projects in a professional and organized format. In the competitive world of web development, having a clean and interactive portfolio website is not just optional — it's a necessity. This project is intended to serve that purpose while fulfilling the requirements of Task 1.
